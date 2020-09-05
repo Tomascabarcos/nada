@@ -1,1 +1,1 @@
-fatal o no
+fatal y
